@@ -134,19 +134,20 @@ Used Wireshark statistics to analyze traffic patterns:
 
 ### 🔹 TCP SYN Scan Detection
 
-##Screenshots/04_SYN-Scan.png
+![SYN Scan](Screenshots/04_SYN-Scan.png)
 
 ### 🔹 DNS Anomaly Detection
 
-![DNS Anomaly](screenshots/06_dns_anomaly.png)
+![DNS Anomaly](Screenshots/05_dns_anamoly.png)
 
 ### 🔹 ICMP Flood Traffic
 
-![ICMP Flood](screenshots/07_icmp_flood.png)
+![ICMP Flood](Screenshots/06_icmp_flood.png)
 
 ### 🔹 Protocol Hierarchy
 
-![Protocol Stats](screenshots/09_protocol_hierarchy.png)
+![Protocol Stats](Screenshots/08_protocol-hierarchy.png) (Normal for refrence)
+![Unusaul Protocol Stats](Screenshots/09_unusaul-protocol-hierarchy.png)
 
 ---
 
