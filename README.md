@@ -134,7 +134,7 @@ Used Wireshark statistics to analyze traffic patterns:
 
 ### 🔹 TCP SYN Scan Detection
 
-Screenshots/04_SYN-Scan.png
+##Screenshots/04_SYN-Scan.png
 
 ### 🔹 DNS Anomaly Detection
 
