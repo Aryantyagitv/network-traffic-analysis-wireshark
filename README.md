@@ -144,9 +144,10 @@ Used Wireshark statistics to analyze traffic patterns:
 
 ![ICMP Flood](Screenshots/06_icmp_flood.png)
 
-### 🔹 Protocol Hierarchy
+### 🔹 Protocol Hierarchy (Normal for Refremce)
 
-![Protocol Stats](Screenshots/08_protocol-hierarchy.png) (Normal for refrence)
+![Protocol Stats](Screenshots/08_protocol-hierarchy.png) 
+### 🔹 Unusaul Protocol Hierarchy (in the project)
 ![Unusaul Protocol Stats](Screenshots/09_unusaul-protocol-hierarchy.png)
 
 ---
